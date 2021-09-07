@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="74" started-at="2021-07-28T14:30:04Z" finished-at="2021-07-28T14:30:04Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="74" started-at="2021-07-28T14:30:04Z" finished-at="2021-07-28T14:30:04Z">
+      <class name="QATesting.MavenProject.RestAPITest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:QATesting.MavenProject.RestAPITest@566776ad]" name="test1" duration-ms="1" started-at="2021-07-28T20:00:04Z" finished-at="2021-07-28T20:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:QATesting.MavenProject.RestAPITest@566776ad]" name="test2" duration-ms="1" started-at="2021-07-28T20:00:04Z" finished-at="2021-07-28T20:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- QATesting.MavenProject.RestAPITest -->
+      <class name="QATesting.MavenProject.SeleniumTest">
+        <test-method status="PASS" signature="test3()[pri:0, instance:QATesting.MavenProject.SeleniumTest@6108b2d7]" name="test3" duration-ms="0" started-at="2021-07-28T20:00:04Z" finished-at="2021-07-28T20:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:QATesting.MavenProject.SeleniumTest@6108b2d7]" name="test4" duration-ms="3" started-at="2021-07-28T20:00:04Z" finished-at="2021-07-28T20:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- QATesting.MavenProject.SeleniumTest -->
+      <class name="QATesting.MavenProject.AppiumTest">
+        <test-method status="PASS" signature="test5()[pri:0, instance:QATesting.MavenProject.AppiumTest@7f690630]" name="test5" duration-ms="17" started-at="2021-07-28T20:00:04Z" finished-at="2021-07-28T20:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:QATesting.MavenProject.AppiumTest@7f690630]" name="test6" duration-ms="6" started-at="2021-07-28T20:00:04Z" finished-at="2021-07-28T20:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- QATesting.MavenProject.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
